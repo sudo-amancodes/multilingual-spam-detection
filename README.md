@@ -26,7 +26,7 @@ A robust and efficient **Social Media Multilingual Spam Detector** built with Py
 
 ## Demo
 
-![App Screenshot](screenshots/demo.png)
+![App Screenshot](demo.png)
 
 *Screenshot of the Social Media Multilingual Spam Detector interface.*
 
