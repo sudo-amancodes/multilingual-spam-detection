@@ -90,3 +90,10 @@ The project uses the [Social Media Spam Collection](https://www.kaggle.com/datas
 8. **Access the app**
     
     Open your browser and navigate to http://127.0.0.1:5000/
+
+This work followed that of Aparna K and Sayan Halder and was an adaption of their paper `Detection of Multilingual Spam SMS Using NaïveBayes Classifier`.
+   
+Citation:
+```
+A. K and S. Halder, "Detection of Multilingual Spam SMS Using NaïveBayes Classifier," 2023 IEEE 5th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA), Hamburg, Germany, 2023, pp. 89-94, doi: 10.1109/ICCCMLA58983.2023.10346960. keywords: {Maximum likelihood estimation;System performance;User interfaces;Probability;Mobile communication;Tokenization;Real-time systems;Spam SMS;Multilingual Detection;Naive Bayes Classifier;Text Preprocessing;Feature Extraction;Language Translation},
+```
